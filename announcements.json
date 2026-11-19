@@ -1,0 +1,27 @@
+{
+  "latest_version": "0.2.0",
+  "store_url": "",
+  "items": [
+    {
+      "id": 1,
+      "type": "update",
+      "date": "2026-11-18",
+      "title": { "es": "Bienvenido a Synchrova", "en": "Welcome to Synchrova" },
+      "body": {
+        "es": "Gracias por probar el juego. Aquí iremos publicando las novedades de cada versión.",
+        "en": "Thanks for trying the game. News about each version will be posted here."
+      }
+    },
+    {
+      "id": 2,
+      "type": "event",
+      "date": "2026-11-18",
+      "ends": "2026-12-31",
+      "title": { "es": "Evento de prueba", "en": "Test event" },
+      "body": {
+        "es": "Este es un aviso de ejemplo de tipo evento. Desaparece solo al pasar la fecha final.",
+        "en": "This is a sample event notice. It disappears by itself after the end date."
+      }
+    }
+  ]
+}
