@@ -8,7 +8,7 @@
       "date": "2026-11-18",
       "title": { "es": "Bienvenido a Synchrova", "en": "Welcome to Synchrova" },
       "body": {
-        "es": "Gracias por probar el juego. Aquí iré publicando las novedades de cada versión.",
+        "es": "Gracias por probar el juego. Novedades de cada versión serán publicadas aquí.",
         "en": "Thanks for trying the game. News about each version will be posted here."
       }
     },
@@ -16,10 +16,10 @@
       "id": 2,
       "type": "event",
       "date": "2026-11-18",
-      "ends": "2026-11-19",
+      "ends": "2026-11-22",
       "title": { "es": "Evento de prueba", "en": "Test event" },
       "body": {
-        "es": "Este es un aviso de ejemplo de tipo evento. Desaparece solo al pasar la fecha final.",
+        "es": "Este es un aviso de ejemplo de tipo evento. Desaparece solo al pasar la fecha final.\nSin eventos reales programados.",
         "en": "This is a sample event notice. It disappears by itself after the end date."
       }
     }
