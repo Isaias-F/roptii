@@ -33,6 +33,17 @@
         "es": "Durante el fin de semana, obtén 50% más de créditos!",
         "en": "You can obtain 50% more credits this weekend!"
       }
+    },
+    {
+      "id": 4,
+      "type": "event",
+      "date": "2026-11-20",
+      "ends": "2026-11-22",
+      "title": { "es": "Reto De Fin de Semana", "en": "Weekend Challenge!" },
+      "body": {
+        "es": "¡No pierdas la oportunidad de ganar hasta 450 de créditos en el reto de fin de semana!",
+        "en": "Don't miss the opportunity to claim up to 450 credits in the Weekend Challenge!"
+      }
     }
   ]
 }
