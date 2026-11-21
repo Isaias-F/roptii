@@ -22,6 +22,17 @@
         "es": "Este es un aviso de ejemplo de tipo evento. Desaparece solo al pasar la fecha final.\nSin eventos reales programados.",
         "en": "This is a sample event notice. It disappears by itself after the end date."
       }
+    },
+    {
+      "id": 3,
+      "type": "event",
+      "date": "2026-11-20",
+      "ends": "2026-11-22",
+      "title": { "es": "Fin de semana x1.5!", "en": "x1.5 Weekend!" },
+      "body": {
+        "es": "Durante el fin de semana, obtén 50% más de créditos!",
+        "en": "You can obtain 50% more credits this weekend!"
+      }
     }
   ]
 }
