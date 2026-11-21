@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": "weekend_x15_2026_11_21",
+      "id": "weekend_x15_2026_11_20",
       "type": "credit_multiplier",
       "multiplier": 1.5,
       "start": "2026-11-20T06:00:00Z",
@@ -13,10 +13,10 @@
       }
     },
     {
-      "id": "weekend_x12_2026_11_28",
+      "id": "weekend_x12_2026_11_27",
       "type": "credit_multiplier",
       "multiplier": 1.2,
-      "start": "2026-11-28T06:00:00Z",
+      "start": "2026-11-27T06:00:00Z",
       "end": "2026-11-30T06:00:00Z",
       "title": { "es": "Fin de semana x1.2", "en": "x1.2 weekend" },
       "body": {
