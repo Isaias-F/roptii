@@ -1,6 +1,26 @@
 {
   "events": [
     {
+      "id": "challenge_2026_11_20",
+      "type": "challenge",
+      "map_id": "synchrova_pure-heart_normal",
+      "start": "2026-11-20T06:00:00Z",
+      "end": "2026-11-23T06:00:00Z",
+      "normal_rewards": "owned_only",
+      "attempt_limit": 0,
+      "title": { "es": "Reto del fin de semana", "en": "Weekend challenge" },
+      "body": {
+        "es": "Cumple los objetivos en este mapa y gana créditos extra. Cada objetivo se paga una sola vez.",
+        "en": "Complete the objectives on this map to earn extra credits. Each objective pays once."
+      },
+      "objectives": [
+        { "id": "complete", "type": "complete", "reward": 100 },
+        { "id": "combo", "type": "max_combo", "value": 250, "reward": 100 },
+        { "id": "grade", "type": "grade", "value": "S", "reward": 100 },
+        { "id": "fc", "type": "full_combo", "reward": 150 }
+      ]
+    },
+    {
       "id": "weekend_x15_2026_11_20",
       "type": "credit_multiplier",
       "multiplier": 1.5,
@@ -13,7 +33,7 @@
       }
     },
     {
-      "id": "weekend_x12_2026_11_27",
+      "id": "weekend_x12_2026_11_28",
       "type": "credit_multiplier",
       "multiplier": 1.2,
       "start": "2026-11-27T06:00:00Z",
