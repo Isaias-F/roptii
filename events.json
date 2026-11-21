@@ -4,7 +4,7 @@
       "id": "weekend_x15_2026_11_21",
       "type": "credit_multiplier",
       "multiplier": 1.5,
-      "start": "2026-11-21T06:00:00Z",
+      "start": "2026-11-20T06:00:00Z",
       "end": "2026-11-23T06:00:00Z",
       "title": { "es": "Fin de semana x1.5", "en": "x1.5 weekend" },
       "body": {
