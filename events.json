@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": "weekend_x15_2026_11_21",
+      "type": "credit_multiplier",
+      "multiplier": 1.5,
+      "start": "2026-11-21T06:00:00Z",
+      "end": "2026-11-23T06:00:00Z",
+      "title": { "es": "Fin de semana x1.5", "en": "x1.5 weekend" },
+      "body": {
+        "es": "Todas tus partidas dan un 50 % más de créditos hasta el domingo por la noche.",
+        "en": "All your plays give 50% more credits until Sunday night."
+      }
+    },
+    {
+      "id": "weekend_x12_2026_11_28",
+      "type": "credit_multiplier",
+      "multiplier": 1.2,
+      "start": "2026-11-28T06:00:00Z",
+      "end": "2026-11-30T06:00:00Z",
+      "title": { "es": "Fin de semana x1.2", "en": "x1.2 weekend" },
+      "body": {
+        "es": "Un 20 % extra de créditos en cada partida.",
+        "en": "20% extra credits on every play."
+      }
+    }
+  ]
+}
