@@ -7,7 +7,7 @@
       "start": "2026-11-20T06:00:00Z",
       "end": "2026-11-23T06:00:00Z",
       "normal_rewards": "owned_only",
-      "attempt_limit": 2,
+      "attempt_limit": 3,
       "title": { "es": "Reto del fin de semana", "en": "Weekend challenge" },
       "body": {
         "es": "Cumple los objetivos en este mapa y gana créditos extra. Cada objetivo se paga una sola vez.",
