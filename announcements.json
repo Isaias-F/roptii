@@ -19,7 +19,7 @@
       "ends": "2026-12-07",
       "title": { "es": "Evento de prueba", "en": "Test event" },
       "body": {
-        "es": "Este es un aviso de ejemplo de tipo evento. Desaparece solo al pasar la fecha final.\n",
+        "es": "Este es un aviso de ejemplo de tipo evento. Desaparece solo al pasar la fecha final.",
         "en": "This is a sample event notice. It disappears by itself after the end date."
       }
     },
