@@ -1,42 +1,30 @@
 {
   "events": [
     {
-      "id": "challenge_2026_11_20",
+      "id": "challenge_2026_11_28",
       "type": "challenge",
-      "map_id": "synchrova_pure-heart_normal",
-      "start": "2026-11-20T06:00:00Z",
-      "end": "2026-11-23T06:00:00Z",
+      "map_id": "synchrova_hikari_normal",
+      "start": "2026-11-28T06:00:00Z",
+      "end": "2026-11-30T06:00:00Z",
       "normal_rewards": "owned_only",
       "attempt_limit": 3,
-      "title": { "es": "Reto del fin de semana", "en": "Weekend challenge" },
+      "title": { "es": "Reto de fin de semana", "en": "Weekend challenge" },
       "body": {
-        "es": "Cumple los objetivos en este mapa y gana créditos extra. Cada objetivo se paga una sola vez.",
-        "en": "Complete the objectives on this map to earn extra credits. Each objective pays once."
+        "es": "Cumple los objetivos y gana créditos extra. Cada objetivo se paga una sola vez.",
+        "en": "Complete the objectives to earn extra credits. Each objective pays once."
       },
       "objectives": [
         { "id": "complete", "type": "complete", "reward": 100 },
-        { "id": "combo", "type": "max_combo", "value": 250, "reward": 100 },
+        { "id": "combo", "type": "max_combo", "value": 300, "reward": 100 },
         { "id": "grade", "type": "grade", "value": "S", "reward": 100 },
-        { "id": "fc", "type": "full_combo", "reward": 150 }
+        { "id": "fc", "type": "full_combo", "reward": 200 }
       ]
-    },
-    {
-      "id": "weekend_x15_2026_11_20",
-      "type": "credit_multiplier",
-      "multiplier": 1.5,
-      "start": "2026-11-20T06:00:00Z",
-      "end": "2026-11-23T06:00:00Z",
-      "title": { "es": "Fin de semana x1.5", "en": "x1.5 weekend" },
-      "body": {
-        "es": "Todas tus partidas dan un 50 % más de créditos hasta el domingo por la noche.",
-        "en": "All your plays give 50% more credits until Sunday night."
-      }
     },
     {
       "id": "weekend_x12_2026_11_28",
       "type": "credit_multiplier",
       "multiplier": 1.2,
-      "start": "2026-11-27T06:00:00Z",
+      "start": "2026-11-28T00:00:00Z",
       "end": "2026-11-30T06:00:00Z",
       "title": { "es": "Fin de semana x1.2", "en": "x1.2 weekend" },
       "body": {
