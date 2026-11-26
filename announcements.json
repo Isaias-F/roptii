@@ -3,7 +3,7 @@
   "store_url": "",
   "items": [
     {
-      "id": 1,
+      "id": 001,
       "type": "update",
       "date": "2026-11-18",
       "title": { "es": "Bienvenido a Synchrova", "en": "Welcome to Synchrova" },
@@ -13,36 +13,36 @@
       }
     },
     {
-      "id": 2,
+      "id": 002,
       "type": "event",
-      "date": "2026-11-18",
-      "ends": "2026-11-22",
+      "date": "2026-11-27",
+      "ends": "2026-12-07",
       "title": { "es": "Evento de prueba", "en": "Test event" },
       "body": {
-        "es": "Este es un aviso de ejemplo de tipo evento. Desaparece solo al pasar la fecha final.\nSin eventos reales programados.",
+        "es": "Este es un aviso de ejemplo de tipo evento. Desaparece solo al pasar la fecha final.\n",
         "en": "This is a sample event notice. It disappears by itself after the end date."
       }
     },
     {
-      "id": 3,
+      "id": 003,
       "type": "event",
-      "date": "2026-11-20",
-      "ends": "2026-11-22",
-      "title": { "es": "Fin de semana x1.5!", "en": "x1.5 Weekend!" },
+      "date": "2026-11-27",
+      "ends": "2026-11-29",
+      "title": { "es": "Fin de semana x1.2!", "en": "x1.2 Weekend!" },
       "body": {
-        "es": "Durante el fin de semana, obtén 50% más de créditos!",
-        "en": "You can obtain 50% more credits this weekend!"
+        "es": "Durante el fin de semana, obtén 20% más de créditos!",
+        "en": "You can obtain 20% more credits this weekend!"
       }
     },
     {
-      "id": 4,
+      "id": 004,
       "type": "event",
-      "date": "2026-11-20",
-      "ends": "2026-11-22",
-      "title": { "es": "Reto De Fin de Semana", "en": "Weekend Challenge!" },
+      "date": "2026-11-28",
+      "ends": "2026-11-29",
+      "title": { "es": "¡Reto de fin de semana!", "en": "Weekend Challenge!" },
       "body": {
         "es": "¡No pierdas la oportunidad de ganar hasta 450 de créditos en el reto de fin de semana!",
-        "en": "Don't miss the opportunity to claim up to 450 credits in the Weekend Challenge!"
+        "en": "Don't miss the opportunity to claim up to 450 credits in the weekend challenge!"
       }
     }
   ]
