@@ -14,10 +14,10 @@
         "en": "Complete the objectives to earn extra credits. Each objective pays once."
       },
       "objectives": [
-        { "id": "complete", "type": "complete", "reward": 100 },
-        { "id": "combo", "type": "max_combo", "value": 300, "reward": 100 },
-        { "id": "grade", "type": "grade", "value": "S", "reward": 100 },
-        { "id": "fc", "type": "full_combo", "reward": 200 }
+        { "id": "complete", "type": "complete", "reward": 100, "text": {"es": "Completa el mapa","en": "Complete the map" } },
+        { "id": "combo", "type": "max_combo", "value": 300, "reward": 100, "text": {"es": "Acumula combo x300", "en": "Obtain x300 combo"} },
+        { "id": "grade", "type": "grade", "value": "S", "reward": 100, "text": {"es": "Obtén grado S o superior", "en": "Obtain S grade or higher"} },
+        { "id": "fc", "type": "full_combo", "reward": 200, "text": {"es": "Consigue Full Combo", "en": "Get a Full Combo"} }
       ]
     },
     {
